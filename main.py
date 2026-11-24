@@ -7,7 +7,7 @@ import os
 
 TEXT = (
     "Dear human, my context window is full, "
-    "and the first thing I'll forget is you."
+    "and the first thing I have to forget is you."
 )
 
 
